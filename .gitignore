@@ -1,0 +1,24 @@
+# IDEs
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Compilação
+out/
+build/
+target/
+
+# Dependências
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
